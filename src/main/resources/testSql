@@ -1,0 +1,7 @@
+select *
+from EMPLOYEE;
+
+ #insert into users (name, age, email) values ('roma', 25 ,'heligi@rambler.ru');
+
+# update users set name='bora2' where idUsers=9;
+
